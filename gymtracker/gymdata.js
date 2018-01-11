@@ -188,6 +188,7 @@ function gymData() {
      {name: "Milton War Memorial", location: [52.243882,0.164198]},
      {name: "Impington Village Sign Art", location: [52.24404,0.111838]},
      {name: "Vision Park Sculpture", location: [52.244316,0.107729]},
+     {name: "Cambridge Jubilee Cycleway", location: [52.214233,0.18285]},
 
     //{name: "", district: "", address: "", location: []},
     ]};
