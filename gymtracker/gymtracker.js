@@ -274,6 +274,7 @@ function compareNames(a, b) {
 }
 
 function compareAddress(a, b) {
+    if (!("address" in a && "address" in b)) return 0;
     const [, streetA, nrA] = a.address.match(/^([^0-9]*)(.*)$/);
     const [, streetB, nrB] = b.address.match(/^([^0-9]*)(.*)$/);
     const result = streetA.localeCompare(streetB);
@@ -282,8 +283,10 @@ function compareAddress(a, b) {
 }
 
 function compareDistricts(a, b) {
-    let result = a.district.localeCompare(b.district);
-    if (result) return result;
+    if ("address" in a && "address" in b) {
+        let result = a.district.localeCompare(b.district);
+        if (result) return result;
+    }
     result = b.level - a.level;
     if (result) return result;
     return compareAddress(a, b);
