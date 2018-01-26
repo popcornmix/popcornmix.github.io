@@ -283,7 +283,7 @@ function compareAddress(a, b) {
 }
 
 function compareDistricts(a, b) {
-    if ("address" in a && "address" in b) {
+    if ("district" in a && "district" in b) {
         let result = a.district.localeCompare(b.district);
         if (result) return result;
     }
