@@ -189,6 +189,8 @@ function gymData() {
      {name: "Impington Village Sign Art", location: [52.24404,0.111838], deleted: true},
      {name: "Vision Park Sculpture", location: [52.244316,0.107729], deleted: true},
      {name: "Cambridge Jubilee Cycleway", location: [52.214233,0.18285]},
+     {name: "Coleridge Paddling Pool", location: [52.193,0.144314]},
+     {name: "Ramsden Square Rec", location: [52.22735,0.1416]},
 
     //{name: "", district: "", address: "", location: []},
     ]};
