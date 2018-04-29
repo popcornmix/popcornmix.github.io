@@ -191,6 +191,15 @@ function gymData() {
      {name: "Cambridge Jubilee Cycleway", location: [52.214233,0.18285]},
      {name: "Coleridge Paddling Pool", location: [52.193,0.144314]},
      {name: "Ramsden Square Rec", location: [52.22735,0.1416]},
+     {name: "Climbing Stone", location: [52.217741,0.10984400000006644]},
+     {name: "Qualcomm North Fountain", location: [52.227501999999994,0.1549929999999904]},
+     {name: "Dragon Intercom", location: [52.189469,0.122352]},
+     {name: "Histon War Memorial", location: [52.248099,0.108823]},
+     {name: "David Gregory Marshall MBE", location: [52.20853,0.12075700000002598]},
+     {name: "Climbing Stone", location: [52.217741,0.10984400000006644]},
+     {name: "Cherry Hinton Brook", location: [52.19436199999999,0.15909899999996924]},
+     {name: "Silver and Gold Metallic Twists Façade", location: [52.173010999999995,0.13760899999999765]},
+     {name: "Chesterton Working Mens Club", location: [52.218087999999995,0.14386000000001786]},
 
     //{name: "", district: "", address: "", location: []},
     ]};
