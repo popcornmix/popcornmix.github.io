@@ -157,7 +157,7 @@ function gymData() {
      {name: "St. Augustine's Church ", location: [52.219744,0.107894]},
      {name: "Ancient Shepherds Pub", location: [52.22043,0.172516]},
      {name: "The Carlton Arms", location: [52.22215,0.119023]},
-     {name: "Cambridge North Station", location: [52.223916,0.158292]},
+     {name: "Cambridge North Station", location: [52.223916,0.158292], deleted: true},
      {name: "The Plough Fen Ditton", location: [52.223983,0.168317]},
      {name: "Cambridge Gurdwara ", location: [52.225112,0.128737]},
      {name: "Golden Hind Pub Cambridge", location: [52.227814,0.145461]},
@@ -196,10 +196,12 @@ function gymData() {
      {name: "Dragon Intercom", location: [52.189469,0.122352]},
      {name: "Histon War Memorial", location: [52.248099,0.108823]},
      {name: "David Gregory Marshall MBE", location: [52.20853,0.12075700000002598]},
-     {name: "Climbing Stone", location: [52.217741,0.10984400000006644]},
+     {name: "Climbing Stone", location: [52.217741,0.10984400000006644], deleted:true},
      {name: "Cherry Hinton Brook", location: [52.19436199999999,0.15909899999996924]},
      {name: "Silver and Gold Metallic Twists Façade", location: [52.173010999999995,0.13760899999999765]},
      {name: "Chesterton Working Mens Club", location: [52.218087999999995,0.14386000000001786]},
+     {name: "King's Hedges Community Football Pitch", location: [52.230538,0.12431200000003173]},
+     {name: "Fiftieth Anniversary Commemorative Plaque of the End of WW1", location: [52.20465999999999,0.18866900000000442]},
 
     //{name: "", district: "", address: "", location: []},
     ]};
