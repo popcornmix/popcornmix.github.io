@@ -207,6 +207,7 @@ function gymData() {
      {name: "Boy with Duck Statue", location: [52.228626,0.084606]},
      {name: "Girton College Main Gate", location: [52.228389,0.083619]},
      {name: "Twin Stars", location: [52.2442,0.107562]},
+     {name: "North Arbury Chapel", location: [52.230829,0.129354]},
 
     //{name: "", district: "", address: "", location: []},
     ]};
