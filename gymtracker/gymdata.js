@@ -202,6 +202,11 @@ function gymData() {
      {name: "Chesterton Working Mens Club", location: [52.218087999999995,0.14386000000001786]},
      {name: "King's Hedges Community Football Pitch", location: [52.230538,0.12431200000003173]},
      {name: "Fiftieth Anniversary Commemorative Plaque of the End of WW1", location: [52.20465999999999,0.18866900000000442]},
+     {name: "Sunclock on the ground", location: [52.223504,0.149061]},
+     {name: "Little People Mosaic", location: [52.230553,0.118489]},
+     {name: "Boy with Duck Statue", location: [52.228626,0.084606]},
+     {name: "Girton College Main Gate", location: [52.228389,0.083619]},
+     {name: "Twin Stars", location: [52.2442,0.107562]},
 
     //{name: "", district: "", address: "", location: []},
     ]};
