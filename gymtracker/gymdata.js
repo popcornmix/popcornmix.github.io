@@ -209,6 +209,16 @@ function gymData() {
      {name: "Twin Stars", location: [52.2442,0.107562]},
      {name: "North Arbury Chapel", location: [52.230829,0.129354]},
      {name: "Defra Eastbrook Sculpture 2003", location: [52.188853,0.12982]},
+     {name: "OP - Stone Shards Beta", location: [52.235604000,0.126702000]},
+     {name: "Capital Park Double Helix", location: [52.184052000,0.190647000]},
+     {name: "Wilberforce Road Sports Ground Pavilion", location: [52.206007000,0.097143000]},
+     {name: "Welcome To Cherry Hinton", location: [52.193337000,0.181561000]},
+     {name: "Playhouse Of Unlimited Adventure", location: [52.189709000,0.159276000]},
+     {name: "Lichfield Road Play Area", location: [52.188796000,0.150663000]},
+     {name: "Wired Nexus Fulbourn", location: [52.182902000,0.185922000]},
+     {name: "Fabulous Toilets", location: [52.200045000,0.128138000]},
+     {name: "St Andrews Cherry Hinton", location: [52.191839000,0.177933000]},
+     {name: "Lord Byron Inn", location: [52.174347000,0.110668000]},
 
     //{name: "", district: "", address: "", location: []},
     ]};
